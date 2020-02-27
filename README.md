@@ -1,6 +1,6 @@
 <head>
   <style type="text/css">
-    .img {
+    img {
       height: 30px;
     }
   </style>
