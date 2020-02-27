@@ -60,7 +60,6 @@ context - окружение в котором отработал запрос. 
         "dealer_id": null,
         "user_id": null,
         "environment": "12",
-        "bus_api": "http://auto.bankbus.ru/b2b/api/v1.2",
         "ecredit_api_url": "https://test2-auto.e-credit.one"
     }
 }

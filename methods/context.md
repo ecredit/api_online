@@ -43,7 +43,6 @@ TODO: dealer_id в get и в POST для метода newapp - описать л
         "dealer_id": 437,
         "user_id": 101,
         "environment": "12",
-        "bus_api": "http://auto.bankbus.ru/b2b/api/v1.2",
         "ecredit_api_url": "https://test2-auto.e-credit.one"
     }
 }
@@ -54,7 +53,5 @@ TODO: dealer_id в get и в POST для метода newapp - описать л
 `user_id` - id пользователя
  
 `environment` - служебный параметр для тестовой среды
- 
-`bus_api` - служебный параметр для тестовой среды
 
 `ecredit_api_url` - точка входа еКредит, к которой обращается API Online
